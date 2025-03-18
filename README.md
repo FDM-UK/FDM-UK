@@ -5,6 +5,7 @@
 - <b>Python App with API integarion</b>
   - [NASA Near-Miss Meteor App](https://github.com/FDM-UK/Nasa-Meteor-App)
 - <b>MySQL Database design and implemantation </b>
+  - [Holiday Let Booking Database](https://github.com/FDM-UK/Holiday-Let-Booking-DB)
 - <b>Design and implement an API</b>
 
 
