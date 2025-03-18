@@ -12,6 +12,8 @@
 <h2>👩‍💻 Personal Projects:</h2>
 
 - <b>Early Start Weather App</b>
+  - [Weather Forcast ASsistant App](https://github.com/FDM-UK/Weather-App))
+
 
 
 <h2> 🤳 Connect with me:</h2>
