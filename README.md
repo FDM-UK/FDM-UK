@@ -12,7 +12,7 @@
 <h2>👩‍💻 Personal Projects:</h2>
 
 - <b>Early Start Weather App</b>
-  - [Weather Forcast ASsistant App](https://github.com/FDM-UK/Weather-App))
+  - [Weather Forcast Assistant App](https://github.com/FDM-UK/Weather-App))
 
 
 
